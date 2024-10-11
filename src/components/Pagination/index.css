@@ -1,0 +1,7 @@
+.pagination {
+  display: flex;
+  align-items: center;
+}
+.next {
+  margin-left: 10px;
+}
